@@ -17,6 +17,18 @@
       "day": "Feb 18th, 2021",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Build a Task Tracker (Complete)",
+      "day": "Today",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Build Double Click for reminder",
+      "day": "Today",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
