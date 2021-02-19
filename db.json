@@ -9,7 +9,7 @@
     {
       "text": "Meet with so and so",
       "day": "test 2",
-      "reminder": false,
+      "reminder": true,
       "id": 2
     },
     {
